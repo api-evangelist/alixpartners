@@ -1,0 +1,240 @@
+aid: alixpartners
+url: https://raw.githubusercontent.com/api-evangelist/alixpartners/refs/heads/main/apis.yml
+name: AlixPartners
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Consulting
+  - Turnaround
+  - Restructuring
+  - Performance Improvement
+  - Artificial Intelligence
+  - Disruption
+description: >-
+  AlixPartners is a global consulting firm founded in 1981 in Detroit, with
+  over 3,500 people across more than 40 countries, specializing in turnaround
+  and restructuring, corporate performance improvement, M&A, investigations,
+  and digital/AI transformation. AlixPartners does not publish a public
+  developer portal or REST API surface; technology value is delivered through
+  client-specific engagements, proprietary tools such as the AI Profit Engine
+  for retail and the Rapid G&A Diagnostic, and a flagship public thought
+  leadership surface anchored by the annual AlixPartners Disruption Index
+  (3,200+ executives across 11 countries and 10 industries) and the AlixTalks
+  podcast (RSS via Podbean). Public consumption is via the alixpartners.com
+  website, downloadable PDF reports, an email subscription preference center,
+  and the AlixTalks Podbean RSS feed.
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.alixpartners.com/
+  - type: GitHubOrganization
+    url: https://github.com/alixpartners
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/alixpartners
+  - type: Newsroom
+    url: https://www.alixpartners.com/newsroom/
+  - type: Insights
+    url: https://www.alixpartners.com/insights/
+  - type: KnowledgeCenter
+    url: https://www.alixpartners.com/disruption/
+  - type: Disruption Index
+    url: https://www.alixpartners.com/disruption-index/
+  - type: Disruption Index Report
+    url: https://www.alixpartners.com/media/cm3dkfqp/2026-alixpartners-disruption-index.pdf
+  - type: AlixTalks
+    url: https://www.alixpartners.com/alixtalks/
+  - type: Podcast
+    url: https://alixtalks.podbean.com/
+  - type: RSS
+    url: https://feed.podbean.com/alixtalks/feed.xml
+  - type: Services
+    url: https://www.alixpartners.com/what-we-do/
+  - type: Platforms and Partnerships
+    url: https://www.alixpartners.com/what-we-do/platforms-partnerships/
+  - type: AI Practice
+    url: https://www.alixpartners.com/what-we-do/artificial-intelligence/
+  - type: AI Profit Engine
+    url: https://www.alixpartners.com/what-we-do/retail/ai-profit-engine/
+  - type: Our Firm
+    url: https://www.alixpartners.com/our-firm/
+  - type: About Us
+    url: https://www.alixpartners.com/our-firm/about-us/
+  - type: Careers
+    url: https://www.alixpartners.com/careers/
+  - type: Contact
+    url: https://www.alixpartners.com/our-firm/contact-us/
+  - type: MediaRelations
+    url: https://www.alixpartners.com/get-in-touch/media-relations-contacts/
+  - type: SignUp
+    url: https://www.alixpartners.com/forms/subscribe/
+  - type: Sitemap
+    url: https://www.alixpartners.com/sitemap.xml
+  - type: Robots
+    url: https://www.alixpartners.com/robots.txt
+  - type: Features
+    data:
+      - name: AlixPartners Disruption Index
+        description: >-
+          Annual flagship research surveying 3,200+ senior executives across 11
+          countries and 10 industries; 2026 is the seventh edition. Headline
+          quote: "Normal is over. Disruption is the new economic driver."
+          Available as a downloadable PDF report plus on-site interactive
+          summary at /disruption-index/.
+      - name: AI Profit Engine
+        description: >-
+          Proprietary retail platform that integrates "hundreds of internal and
+          external data sources" into a machine-learning model to forecast
+          customer and revenue demand and optimize pricing/promotions,
+          assortment/inventory, and marketing/loyalty. Delivered through
+          AlixPartners consulting engagements rather than as a public SaaS API.
+      - name: Rapid G&A Diagnostic
+        description: >-
+          Proprietary organizational assessment tool used in the Organizational
+          Transformation practice to identify cost-out opportunities across
+          general and administrative functions.
+      - name: Organizational Health Diagnostic
+        description: >-
+          Proprietary workforce and performance evaluation tool used in the
+          Transformative Leadership practice.
+      - name: AlixTalks Podcast
+        description: >-
+          Video and podcast series hosted by Executive Chairman Simon Freakley
+          featuring conversations with senior business and policy leaders about
+          managing accelerating disruption. Published via Podbean with a public
+          RSS feed at https://feed.podbean.com/alixtalks/feed.xml.
+      - name: AlixTalks Insights Series
+        description: >-
+          Web-published companion content to the podcast under
+          /alixtalks/ covering boardroom, globalization, company culture,
+          proactive transformation, and chaos-to-opportunity series episodes.
+      - name: Annual Outlook Reports
+        description: >-
+          Recurring research products including the 2026 Enterprise Software
+          Predictions Report, 2026 U.S. Risk Survey ("Risk is accelerating
+          faster than readiness"), and 2026 Aerospace & Defense Outlook,
+          published as PDFs and on-site insight pages.
+      - name: Email Subscription Preferences
+        description: >-
+          Public subscription preference center at /forms/subscribe/ for
+          receiving AlixPartners insights, event invitations, and research
+          updates by email.
+      - name: The Hornet Newsletter
+        description: >-
+          LinkedIn newsletter authored by Co-CEO Rob Hornby covering AI,
+          disruption, and corporate performance commentary.
+      - name: Disruption Navigator
+        description: >-
+          Curated AlixPartners insights surfaced through the World Economic
+          Forum Intelligence platform as a complement to the Disruption Index.
+      - name: Berylls by AlixPartners
+        description: >-
+          Automotive-focused strategy unit operating under the AlixPartners
+          brand; recently announced an Americas partnership with FULLY AI to
+          extend automotive AI advisory capabilities.
+      - name: AlixPartners GitHub Organization
+        description: >-
+          Public GitHub org at github.com/alixpartners with 2 public
+          repositories (a fork of docs/custom-agents-template and a fork of
+          backslash-security/scan-action). No first-party open source SDKs or
+          APIs are published.
+  - type: Services
+    data:
+      - name: Turnaround and Restructuring
+        description: Core historical practice covering distressed company turnarounds, restructurings, and bankruptcy reorganization.
+      - name: Corporate Strategy and Transformation
+        description: Strategic and organizational change advisory aimed at unlocking shareholder value.
+      - name: Organizational Transformation
+        description: Restructuring of operating models and G&A optimization, often using the Rapid G&A Diagnostic.
+      - name: Office of the CFO
+        description: Finance transformation across strategy, operations, technology, and compliance.
+      - name: Mergers and Acquisitions
+        description: Deal support across the transaction lifecycle from diligence through post-merger integration.
+      - name: Investigations, Disputes and Advisory Services
+        description: Forensic analysis, expert witness testimony, and dispute advisory services.
+      - name: Cybersecurity
+        description: Cyber resilience services focused on protecting corporate value.
+      - name: Data Governance
+        description: Custom solutions for eDiscovery, client data platforms, and data analytics.
+      - name: Environmental, Social and Governance
+        description: ESG integration advisory across industries.
+      - name: Growth
+        description: Revenue expansion, pricing, and go-to-market advisory.
+      - name: Supply Chain Management and Operations
+        description: Procurement and manufacturing efficiency advisory using AI tools and platforms.
+      - name: Technology
+        description: Tech M&A, operating-model transformations, and tech cost optimization.
+      - name: Artificial Intelligence
+        description: Advanced analytics, machine learning, and generative AI advisory and implementation.
+      - name: Transformative Leadership
+        description: Leadership development and organizational health diagnostics for senior teams.
+  - type: Industries
+    data:
+      - name: Aerospace and Defense
+      - name: Automotive and Industrial
+      - name: Consumer Products
+      - name: Energy and Process Industries
+      - name: Financial Services
+      - name: Healthcare and Life Sciences
+      - name: Private Equity and Investors
+      - name: Restaurants Hospitality Travel and Leisure
+      - name: Retail
+      - name: Shipping Logistics and Infrastructure
+      - name: Technology Media and Telecommunications
+  - type: UseCases
+    data:
+      - name: Distressed Turnaround
+        description: Operational and financial turnaround of underperforming or distressed businesses.
+      - name: Chapter 11 Restructuring
+        description: Bankruptcy reorganization and creditor advisory engagements.
+      - name: Performance Improvement
+        description: Cost reduction, working capital, and EBITDA improvement programs for corporates and PE portfolio companies.
+      - name: Retail Demand Forecasting
+        description: Machine-learning-driven demand, pricing, inventory, and marketing optimization delivered via the AI Profit Engine.
+      - name: Private Equity Value Creation
+        description: Diligence, 100-day, and value creation advisory across the PE portfolio lifecycle.
+      - name: Tariff and Geopolitical Scenario Planning
+        description: Real-time what-if and scenario modeling for tariffs, supply chain risk, and geopolitics, often surfaced through the AI Profit Engine and Disruption Index.
+      - name: Disputes and Litigation Support
+        description: Forensic, valuation, and expert testimony services for complex disputes.
+      - name: Enterprise Risk Assessment
+        description: Risk readiness benchmarking informed by the annual U.S. Risk Survey and Disruption Index.
+  - type: Integrations
+    data:
+      - name: Palantir Foundry
+        description: AlixPartners delivers data integration and analytics on Palantir Foundry, leveraging its 250+ connectors for rapid enterprise data unification.
+      - name: Microsoft Azure and Microsoft 365
+        description: Cloud, AI, and productivity transformation delivered on Microsoft Azure and Microsoft 365.
+      - name: Alteryx
+        description: Data analytics and workflow automation; over 600 AlixPartners colleagues trained, used in 100+ client engagements, with native integration to AWS, SQL, PowerBI, Databricks, and 150+ platforms.
+      - name: Cien.ai
+        description: AI-driven B2B sales force effectiveness diagnostics integrated into Growth practice engagements.
+      - name: BoostUp
+        description: AI-enabled revenue command center for forecasting, deal inspection, and sales coaching.
+      - name: FULLY AI
+        description: Berylls by AlixPartners Americas partnership extending automotive-focused AI advisory capabilities.
+      - name: World Economic Forum Intelligence
+        description: AlixPartners insights surfaced through the WEF Intelligence platform via the Disruption Navigator.
+  - type: Compliance
+    data:
+      - name: Client Confidentiality
+        description: All engagements operate under master consulting agreements with strict confidentiality and conflict-management terms.
+      - name: GDPR
+        description: European client and personal data handling is governed by the EU General Data Protection Regulation.
+      - name: Data Governance
+        description: AlixPartners maintains a dedicated Data Governance practice covering eDiscovery and analytics platforms with corresponding internal controls.
+  - type: Regions
+    data:
+      - name: Headquarters
+        description: Detroit (founding); registered UK office at 6 New Street Square, London, EC4A 3BF.
+      - name: Global Footprint
+        description: Operations across more than 40 countries with regional sites in Germany, Japan, and Spain.
+plansReconciled: false
+rateLimitsReconciled: false
+finopsReconciled: false
+position: Consuming
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
