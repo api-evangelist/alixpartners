@@ -2,7 +2,7 @@ aid: alixpartners
 url: https://raw.githubusercontent.com/api-evangelist/alixpartners/refs/heads/main/apis.yml
 name: AlixPartners
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Consulting
   - Turnaround
