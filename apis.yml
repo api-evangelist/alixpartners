@@ -68,7 +68,7 @@ common:
     url: https://www.alixpartners.com/our-firm/contact-us/
   - type: MediaRelations
     url: https://www.alixpartners.com/get-in-touch/media-relations-contacts/
-  - type: SignUp
+  - type: Signup
     url: https://www.alixpartners.com/forms/subscribe/
   - type: Sitemap
     url: https://www.alixpartners.com/sitemap.xml
